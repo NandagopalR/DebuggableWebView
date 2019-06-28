@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewDebug</string>
+    <string name="enter_web_address">https://google.com</string>
+</resources>
